@@ -1,0 +1,16 @@
+Start the program.
+Input the double variable type, 1st number, let's name it x.
+If its not a number, go back and ask 1st number again. Display invaild entry type again.
+Input the double variable type, 2nd number, let's call this y.
+assign an answer variable as double variable named as z.
+Perform addition x+y=z.
+Display Addition=z.
+Perform subtraction x-y=z.
+Display subtraction=z.
+Perform multiplication x*y=z.
+Display multiplication=z.
+Perform Division x/y=z.
+Display Division=z.
+End of the program.
+
+
